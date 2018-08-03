@@ -1,5 +1,5 @@
 
-public class HotelCinqEtoiles {
+public class HotelCinqEtoiles implements HotelLuxe {
 	
 	String piscine5;
 	String taxi5;
